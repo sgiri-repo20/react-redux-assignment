@@ -1,5 +1,5 @@
 # react-redux-assignment
-``Checkout this repo, install dependencies, then start the gulp process with the following:
+``Checkout this repo, install dependencies,
 
 ```
 > git clone https://github.com/sgiri-repo20/react-redux-assignment.git
